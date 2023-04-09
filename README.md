@@ -38,5 +38,8 @@ alias GPUinspect='cat /data0/dataset/gpu_query'
 pip install paramiko
 pip install pyyaml==5.4.1
 ```
+- TODO List
+    - [ ] Write back to target server.
+    - [ ] Create a web page to view the state.
 
 
