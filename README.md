@@ -33,6 +33,10 @@ GPU2[***]: 220MiB/24576MiB
 ```bash
 alias GPUinspect='cat /data0/dataset/gpu_query'
 ```
-
+- Pkg Requirement
+```bash
+pip install paramiko
+pip install pyyaml==5.4.1
+```
 
 
