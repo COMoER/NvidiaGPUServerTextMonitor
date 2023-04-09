@@ -1,0 +1,12 @@
+local: # necessary
+  ip: 127.0.0.1 # just local ip name not used
+  port: '22' # just local port name not used
+robot1124:
+  id: server
+  ip: 127.0.0.1 # actual ip address
+  port: '22' # actual port
+  leaf: true # if leaf node
+  ip_name: 127.0.0.1 # just name not used
+  port_name: '22' # just name not used
+  pwd: 123456
+
